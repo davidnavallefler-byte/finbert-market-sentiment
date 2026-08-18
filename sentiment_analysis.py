@@ -21,7 +21,7 @@ def analyze_sentiment(news_list, model_pipeline):
 if __name__ == "__main__":
     # 1. Cargamos el modelo
     finbert = load_finbert()
-    
+ 
     # 2. Creamos unos titulares de prueba (Mock data)
     sample_news = [
         "Apple reports record-breaking revenue for the third quarter.",
