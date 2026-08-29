@@ -39,7 +39,7 @@ $R_{strategy, t} = \text{Position}_{t-1} \times R_{market, t}$
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/davidnavallefler-byte/finbert-market-sentiment.git](https://github.com/YOUR-USERNAME/finbert-market-sentiment.git)
+   git clone [https://github.com/davidnavallefler-byte/finbert-market-sentiment.git](https://github.com/davidnavallefler-byte/finbert-market-sentiment.git)
    cd finbert-market-sentiment
    ```
 
